@@ -1,4 +1,3 @@
-# Nabiel Novel Khubran
-hi there! 👋
+# hi there! 👋
 
 🌎 geological engineering major @ ITB
