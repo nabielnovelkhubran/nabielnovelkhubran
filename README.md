@@ -2,4 +2,4 @@
 
 🌎 geological engineering major @ ITB
 
-> Here's the place where i store all my projects
+> here's the place where i store all my projects
